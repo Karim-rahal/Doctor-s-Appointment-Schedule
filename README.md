@@ -1,6 +1,6 @@
 # Joint Heal
 
-Joint Heal is a dynamic website developed for physiotherapy clinic. It serves both anonymous visitors and registered users. Public features include general information about services, therapists, and contact options. Authenticated users gain acces to appointment booking, medical history, and personalized treatment updates.
+Joint Heal is a dynamic website developed for physiotherapy clinic. It serves both anonymous visitors and registered users. Public features include general information about services, therapists, and contact options. Authenticated users gain access to appointment booking, medical history, and personalized treatment updates.
 
 The website is built using HTML, CSS, JavaScript, and PHP. It is intended to run locally on a XAMPP environment, leveraging Apache as the web server and MySQL for database functionality. The project includes session-based authentication, secure form handling, and modular PHP scripting.
 
