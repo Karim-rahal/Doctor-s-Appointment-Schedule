@@ -191,13 +191,13 @@ user = "root"           'default' XAMPP MySQL user
 password = ""           'default' is empty
 database = "testing-php" name of your database
 
-
-
+## Known
+Working on an easier time selection in the appointment file.
 ## Author / Contact
 
 - Names: Karim Rahal and Sarah Dhainy
 - Email: karim.rahal@lau.edu / sarah.dhainy@lau.edu
-- GitHub: [your-github-profile](https://github.com/your-profile)
+- GitHub: https://github.com/Karim-rahal
 
 ## Acknowledgments
 
